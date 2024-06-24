@@ -1,1 +1,1 @@
-# Nick-Griffin
+# Nick Griffin
