@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nick, an <a href="www.linkedin.com/in/nc-griffin">IT Professional</a>
+<h1>Hi, I'm Nick, an <a href="https://linkedin.com/in/nc-griffin">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
